@@ -1,0 +1,2 @@
+# mindparcial
+mind
